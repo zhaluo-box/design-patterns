@@ -1,4 +1,4 @@
-package com.example.design.patterns.factory;
+package com.example.design.patterns.creational.factory;
 
 import lombok.Data;
 import lombok.ToString;

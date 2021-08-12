@@ -1,7 +1,5 @@
-package com.example.design.patterns.factory;
+package com.example.design.patterns.creational.factory;
 
-import lombok.Data;
-import lombok.ToString;
 import lombok.extern.slf4j.Slf4j;
 
 @Slf4j
