@@ -9,8 +9,24 @@ import com.example.design.patterns.behavior.statusModel.entity.State;
 public interface IMario {
     State getName();
     //以下是定义的事件
+
+    /**
+     * 获得蘑菇
+     */
     void obtainMushRoom();
+
+    /**
+     * 获得斗篷
+     */
     void obtainCape();
+
+    /**
+     * 获得火焰花
+     */
     void obtainFireFlower();
+
+    /**
+     * 遇到怪物
+     */
     void meetMonster();
 }
